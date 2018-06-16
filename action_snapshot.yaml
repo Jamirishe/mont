@@ -3,12 +3,12 @@ actions:
   1:
     action: snapshot
     description: >-
-      Snapshot subscriptionviewservice
+      Snapshot mcd_elastic_test
     options:
       repository: logs_backup
 
     # Leaving name blank will result in the default 'curator-%Y%m%d%H%M%S'
-      name: subscriptionviewservice-%Y%m%d%H%M%S
+      name: mcd_elastic_test-%Y%m%d%H%M%S
       ignore_unavailable: False
       include_global_state: True
       partial: False
