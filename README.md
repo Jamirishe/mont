@@ -1,1 +1,2 @@
-Mont ElasticSearch 
+Mont ElasticSearch
+Typical scripts to automatic management ELK
